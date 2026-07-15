@@ -149,13 +149,6 @@ margin-leakage-analysis-dashboard
 
 ---
 
-# 🔗 Tableau Dashboard
-
-**Tableau Public:**  
-*(Add your Tableau Public link here)*
-
----
-
 # 👨‍💻 Author
 
 ### Sarvesvaran G
